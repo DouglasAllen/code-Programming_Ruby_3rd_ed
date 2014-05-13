@@ -1,0 +1,18 @@
+#---
+# Excerpted from "Programming Ruby",
+# published by The Pragmatic Bookshelf.
+# Copyrights apply to this code. It may not be used to create training material, 
+# courses, books, articles, and the like. Contact us if you are in doubt.
+# We make no guarantees that this code is fit for any purpose. 
+# Visit http://www.pragmaticprogrammer.com/titles/ruby3 for more book information.
+#---
+% irb
+irb(main):001:0> def sum(n1, n2)
+irb(main):002:1> n1 + n2
+irb(main):003:1> end
+=> nil
+irb(main):004:0> sum(3, 4)
+=> 7
+irb(main):005:0> sum("cat", "dog")
+=> "catdog"
+irb(main):006:0> exit

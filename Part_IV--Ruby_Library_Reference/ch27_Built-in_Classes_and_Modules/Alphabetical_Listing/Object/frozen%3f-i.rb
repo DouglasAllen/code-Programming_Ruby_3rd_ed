@@ -1,0 +1,1 @@
+=beginObject#frozen?(from ~/.rdoc)------------------------------------------------------------------------------  obj.frozen?    -> true or false------------------------------------------------------------------------------Returns the freeze status of obj.  a = [ "a", "b", "c" ]  a.freeze    #=> ["a", "b", "c"]  a.frozen?   #=> true=end

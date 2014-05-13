@@ -1,0 +1,1 @@
+=beginObject#nil?(from ~/.rdoc)------------------------------------------------------------------------------  nil?()------------------------------------------------------------------------------call_seq:  nil.nil?               -> true  <anything_else>.nil?   -> falseOnly the object nil responds true to nil?.=end

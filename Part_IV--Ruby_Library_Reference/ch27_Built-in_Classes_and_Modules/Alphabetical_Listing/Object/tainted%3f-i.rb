@@ -1,0 +1,1 @@
+=beginObject#tainted?(from ~/.rdoc)------------------------------------------------------------------------------  obj.tainted?    -> true or false------------------------------------------------------------------------------Returns true if the object is tainted.=end

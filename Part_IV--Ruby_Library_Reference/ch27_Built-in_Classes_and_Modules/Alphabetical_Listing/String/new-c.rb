@@ -1,0 +1,1 @@
+=beginString::new(from ~/.rdoc)------------------------------------------------------------------------------  String.new(str="")   -> new_str------------------------------------------------------------------------------Returns a new string object containing a copy of str.=end

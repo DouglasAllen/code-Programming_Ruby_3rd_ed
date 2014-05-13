@@ -1,0 +1,1 @@
+=beginObject#respond_to_missing?(from ~/.rdoc)------------------------------------------------------------------------------  obj.respond_to_missing?(symbol, include_private) -> true or false------------------------------------------------------------------------------Hook method to return whether the obj can respond to id method ornot.See #respond_to?.=end

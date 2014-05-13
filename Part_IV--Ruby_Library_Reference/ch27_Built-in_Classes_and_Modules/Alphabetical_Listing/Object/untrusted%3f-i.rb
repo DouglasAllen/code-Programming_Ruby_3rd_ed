@@ -1,0 +1,1 @@
+=beginObject#untrusted?(from ~/.rdoc)------------------------------------------------------------------------------  obj.untrusted?    -> true or false------------------------------------------------------------------------------Returns true if the object is untrusted.=end

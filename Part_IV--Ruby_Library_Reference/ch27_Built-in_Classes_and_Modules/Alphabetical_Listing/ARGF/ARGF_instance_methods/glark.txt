@@ -1,0 +1,3 @@
+glark.txt
+some text to look at
+This is line two

@@ -1,0 +1,1 @@
+ENV.each {|item| puts item }
